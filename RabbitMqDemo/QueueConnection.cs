@@ -8,6 +8,7 @@
     {
         private readonly IConnection _connection;
         private readonly IModel _channel;
+
         private readonly string _exchangeName;
         private readonly string _routingKey;
         private readonly string _queueName;
@@ -19,6 +20,7 @@
                 Uri = new Uri(endpoint),
                 ClientProvidedName = clientProviderName
             };
+
             _connection = factory.CreateConnection();
             _channel = _connection.CreateModel();
 
