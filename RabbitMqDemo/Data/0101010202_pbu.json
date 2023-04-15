@@ -1,0 +1,107 @@
+{
+  "Medlemsinfo": {
+    "Cpr": {
+      "Nummer": "010101-0202",
+      "F\u00F8dselsdato": "1901-01-01T00:00:00",
+      "ForsikringtekniskF\u00F8dselsdato": "1901-01-01T00:00:00",
+      "ForsikringtekniskAlderIM\u00E5neder": 1467,
+      "ForsikringtekniskAlder": 122,
+      "K\u00F8n": 0,
+      "AlderIM\u00E5neder": 1467,
+      "Alder": 122,
+      "OverholderModulus11": false
+    },
+    "Fornavn": "Ingrid (fra RabbitMQ)",
+    "Efternavm": "S\u00F8rensen",
+    "Adresse": {
+      "Gadenavn": "K\u00F8bmagergade",
+      "Gadenummer": "5C",
+      "Postnummer": 1356,
+      "Bynavn": "K\u00F8benhavn K",
+      "Land": "Danmark",
+      "Landekode": "DK"
+    }
+  },
+  "Pensionsselskab": {
+    "Navn": "P\u00E6dagogernes Pension",
+    "Selskabsnavn": 21,
+    "Adresse": {
+      "Gadenavn": "Tuborg Boulevard",
+      "Gadenummer": "3",
+      "Postnummer": 2900,
+      "Bynavn": "Hellerup",
+      "Land": "Danmark",
+      "Landekode": "DK"
+    }
+  },
+  "Policer": [
+    {
+      "Nummer": "Pol00001",
+      "Ordningsindsigt": {
+        "Pensionsd\u00E6kninger": [
+          {
+            "Bel\u00F8b": 8000,
+            "D\u00E6kningstype": 1,
+            "Udl\u00F8bsalderIMdr": 828
+          },
+          {
+            "Bel\u00F8b": 90000,
+            "D\u00E6kningstype": 0,
+            "Udl\u00F8bsalderIMdr": 840
+          },
+          {
+            "Bel\u00F8b": 84000,
+            "D\u00E6kningstype": 2,
+            "Udl\u00F8bsalderIMdr": 828
+          },
+          {
+            "Bel\u00F8b": 50000,
+            "D\u00E6kningstype": 3,
+            "Udl\u00F8bsalderIMdr": 840
+          }
+        ],
+        "Risikod\u00E6kninger": [
+          {
+            "Bel\u00F8b": 1000000,
+            "D\u00E6kningstype": 6
+          },
+          {
+            "Bel\u00F8b": 1600000,
+            "D\u00E6kningstype": 5
+          },
+          {
+            "Bel\u00F8b": 50000,
+            "D\u00E6kningstype": 5
+          }
+        ]
+      }
+    },
+    {
+      "Nummer": "Pol00002",
+      "Ordningsindsigt": {
+        "Pensionsd\u00E6kninger": [
+          {
+            "Bel\u00F8b": 86000,
+            "D\u00E6kningstype": 1,
+            "Udl\u00F8bsalderIMdr": 828
+          },
+          {
+            "Bel\u00F8b": 57000,
+            "D\u00E6kningstype": 3,
+            "Udl\u00F8bsalderIMdr": 840
+          }
+        ],
+        "Risikod\u00E6kninger": [
+          {
+            "Bel\u00F8b": 900000,
+            "D\u00E6kningstype": 5
+          },
+          {
+            "Bel\u00F8b": 40000,
+            "D\u00E6kningstype": 5
+          }
+        ]
+      }
+    }
+  ]
+}
